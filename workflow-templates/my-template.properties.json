@@ -1,0 +1,13 @@
+{
+    "name": "My Workflow Template",
+    "description": "An example to show how tempates work.",
+    "iconName": "my-template",
+    "categories": [
+        "javascript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
