@@ -1,6 +1,6 @@
 {
     "name": "My Workflow Template",
-    "description": "An example to show how tempates work.",
+    "description": "Description of template workflow",
     "iconName": "my-template",
     "categories": [
         "javascript"
